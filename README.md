@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jade</h1>
+<h1 align="center">Hi 👋 <br> I'm Jade</h1>
 <h3 align="center">A passionate fullstack developer from Switzerland</h3>
 
 - 🔭 I’m currently working on [ParkBuddies](https://www.parkbuddies.ch/)
