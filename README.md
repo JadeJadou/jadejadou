@@ -3,16 +3,10 @@
 
 - 🔭 I’m currently working on [ParkBuddies](https://www.parkbuddies.ch/)
 
-<p> const JadeJadou = {
-  availableForHire: true,
-  education: "Le Wagon Online, a 9-week full-time intensive coding bootcamp",
-  otherAlias: "Junior Full Stack Developer",
-  codesIn: ["HTML", "CSS", "Ruby"],
-  constentlylearning: ["Ruby on Rails", "JavaScript ES6", "SQL", "HTML", "CSS", "Ruby"],
-  toolsUsed: ["Visual Studio Code", "Bootstrap", "Figma", "GitHub", "Heroku"],
-}
+<p align="left">
+  <em> 🚀 Constently learning all these languages and tools! </em>
 </p>
-<br>
+
 <p align="left">
 </p>
 
