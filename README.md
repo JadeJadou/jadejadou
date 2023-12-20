@@ -15,7 +15,7 @@
     🌍 I did work in hospitality management for 10 years and I secretly hope to combine my two passions in the future!
   <br>
   
-    🌟 I am still working on my final project at Le Wagon : <a href="https://www.parkbuddies.ch">ParkBuddies</a> and i enjoy it a lot
+    🌟 I am still working on my final project at Le Wagon : ParkBuddies and i enjoy it a lot
 
 <!-- Tools -->
 
