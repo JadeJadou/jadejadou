@@ -8,7 +8,6 @@
 <p>Freshly graduated from Le Wagon! I am looking forward to gain experience and meet the community</p>
 
 
-    <p align="left" dir="auto">
         
     🔭  I'm currently and constently working on all the technical languages i have learnt in the past few months with the continuation of my final project ParkBuddies
 
