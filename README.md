@@ -9,19 +9,17 @@
 <!-- Short sentences -->
 <ul>
     <p align="left" dir="auto">
+        
     🔭  I'm currently and constently working on all the technical languages i have learnt in the past few months with the continuation of my final project ParkBuddies
-  <br>
 
     🌱  It is now time to find a job and start my career as a developer! Meanwhile, I am happy to collaborate on any project!
   </p>
-  <br>
   
     🌍 I did work in hospitality management for 10 years and I secretly hope to combine my two passions in the future!
   <br>
   
     🌟 I am still working on my final project at Le Wagon : <a href="https://www.parkbuddies.ch">ParkBuddies</a> and i enjoy it a lot
 </ul>
-<br>
 
 <!-- Tools -->
 
